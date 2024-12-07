@@ -81,10 +81,6 @@ git clone https://github.com/Yang-Yifan0313/Power-System-Load-Forecasting.git
 cd Power-System-Load-Forecasting
 ```
 
-2. Install required packages
-```bash
-pip install -r requirements.txt
-```
 
 ### Usage
 ### Dataset Structure
@@ -153,9 +149,3 @@ The project includes three key visualizations:
 1. Actual vs Predicted Load Values
 2. Feature Correlation Matrix
 3. Feature Importance Distributions for both Random Forest and LightGBM
-
-## 📫 Contact
-[Your contact information here]
-
-## 📄 License
-[License information here]
