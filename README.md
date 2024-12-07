@@ -141,8 +141,9 @@ python main.py
    - Final predictions will be saved in 'Test/Answer.csv'
 
 ## 📝 Results
-- Final score: 3.32482
-- Ranking: 30th place
+-Ranking: 30th place out of 288 participants in the course Kaggle competition
+
+The model was evaluated in a Kaggle competition specifically organized for the ELEC7011 course. The final score and ranking reflect the model's performance among 288 course participants, placing in the top 10.4% of all submissions.
 
 ## 📊 Visualizations
 The project includes three key visualizations:
